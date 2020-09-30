@@ -1,0 +1,1 @@
+Projede herhangi bir class tan yararlanýþmamýþtýr ve 1csn.pdb dosyasý baz alýnarak yapýlmýþtýr.
